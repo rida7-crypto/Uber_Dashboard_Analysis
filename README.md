@@ -1,5 +1,22 @@
 # Uber NCR Ride Analytics Dashboard
 
+## Dashboard Previews
+
+### Executive Insights and KPI Tracking
+![Executive KPI Dashboard](dashboardss1.png)
+
+### Demand Trends and Vehicle Allocation
+![Demand Analysis](ss2dash.png)
+
+### Revenue Metrics and Financial Leakage
+![Revenue Analysis](ss3dash.png)
+
+### Geospatial Cancellation Hotspots
+![Geospatial Hotspots](ss4dash.png)
+
+### Granular Cancellation Breakdown
+![Root Cause Analysis](ss5dash.png)
+
 An interactive, AI-accelerated data engineering and analytics application built to analyze high-volume rideshare transactional data. This dashboard processes over 150,000 simulated ride bookings in the National Capital Region (NCR), India, to uncover critical insights regarding demand patterns, cancellation hot spots, and revenue loss.
 
 ## Project Overview & Features
